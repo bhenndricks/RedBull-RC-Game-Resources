@@ -15,4 +15,4 @@ With powerful animation tools and a built-in scripting editor, making games with
 
 ## Author
 Blake Hendricks
-bchendricks@yahoo.com
+
